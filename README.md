@@ -37,4 +37,6 @@
    - 
 # Контакты для свзязи 
 Дискорд omakoberes
+
+
 телеграм https://t.me/SPDRRBSK
